@@ -1,0 +1,5 @@
+{
+  "name": "RiFT Product Agent",
+  "description": "A conversational agent that acts as a senior UI/UX/Product manager to help non-technical users clarify their product requirements. The final output is a detailed prompt for an AI coding tool to build the MVP.",
+  "requestFramePermissions": []
+}
